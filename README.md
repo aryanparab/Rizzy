@@ -96,9 +96,13 @@ NEXTAUTH_SECRET=some_super_secret_key
 
 ---
 
+## Demo
+-  https://drive.google.com/file/d/1XJ1pXGL2tFpXO0MMK6f7AYkosiChd7LF/view?usp=sharing
+
+---
+
 ## 📌 Notes
 
-- If using large ML models or files in the future, set up Git LFS  
 - Keep `.env` and `.env.local` private and never commit them  
 - All chat analytics and recommendations are generated dynamically with Gemini based on persona, history, and user profile  
 
