@@ -1,0 +1,27 @@
+# Node.js
+download/node_modules/
+download/.env.local
+download/dist/
+download/build/
+download/.next/
+download/out/
+download/coverage/
+download/.vscode/
+download/.DS_Store
+
+# Python
+
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.egg-info/
+backend/*.log
+backend/*.sqlite3
+backend/.env
+backend/.venv/
+backend/venv/
+backend/migrations/
+backend/instance/
+
+download.zip
+rizzy/*
+.env

@@ -1,0 +1,6 @@
+s= "aareta@usc.edu​afh@usc.edu,​barreda@usc.edu,​briennem@usc.edu,​cornett@usc.edu,​dcueva@usc.edu​,eces.chairadmin@usc.edu,​hinaba@usc.edu,​inostroz@usc.edu​,kathryn.huang@med.usc.edu,​kusum@usc.edu,​marcusgu@usc.edu,​mm49061@usc.edu,​ritz@usc.edu,​ruthlope@usc.edu,​sschutt@usc.edu,​yadiwang@usc.edu,​yuhungw@usc.edu,acevedol@usc.edu,​akirchne@usc.edu,​amyfeng@isi.edu,​Artritto@usc.edu,​ayam@usc.edu,​bagnato@usc.edu,​barosy@usc.edu,​bleon@wesrac.usc.edu,​brownbil@usc.edu,​burglin@usc.edu,​cfabares@wesrac.usc.edu,​cockroft@usc.edu,​coreyc@isi.edu​cuason@usc.edu,​demetras@usc.edu,​dziegiel@usc.edu,​gomezadr@usc.edu,​halldavi@usc.edu,​henrych@usc.edu,​jamesjyo@usc.edu,​jboarnet@usc.edu,​jerrygol@usc.edu,​jkidder@usc.edu,​jlaux@usc.edu,​johnng@usc.edu,​jseward@usc.edu,​kennywan@usc.edu,​koffman@usc.edu,​lida@isi.edu,lorenzoc@usc.edu,​lwinston@isi.edu,​medinami@usc.edu,​melissa@isi.edu,​mmedeiro@usc.edu,​monicapr@usc.edu,​msilva@usc.edu,​patrick.sylvester@usc.edu,​ritz@usc.edu,​rozan@usc.edu,​samantha.danner@usc.edu,​samkohan@usc.edu,​sharont@usc.edu,​skrimm@isi.edu,​suadaziz@usc.edu,​susannas@usc.edu,​tillmann@usc.edu,​timpke@usc.edu,​vargasje@usc.edu,​visapatt@usc.edu,​wchee@isi.edu"
+
+for i in s.split(","):
+    print(i)
+
+print(len(s.split(",")))
